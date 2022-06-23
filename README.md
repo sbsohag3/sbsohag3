@@ -15,7 +15,7 @@ The changing world will also help a significant contribution to the success of T
 <p>Familiar:- Typescript, React Native.</p>
 <p>Comfortable:- Tailwind CSS, React Hook Form, React Query, Strip.</p>
 <p>Tools:-VS Code, Github, Netlify, Heroku, Figma, etc.</p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sbsohag3)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/sbsohag3?username=sbsohag3)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [SB Shop](https://sb-shop-ass12.web.app/)
 
