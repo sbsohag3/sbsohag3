@@ -20,9 +20,9 @@ The changing world will also help a significant contribution to the success of T
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbsohag3&show_icons=true&locale=en&layout=compact" alt="sbsohag3" />
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sbsohag3&" alt="sbsohag3" />
 </p>
-</br>
 
-<h1 align="left">`☕ Connect with me!`</h1>
+
+<h1 align="left"  width="100%">☕ Connect with me!</h1>
 <p align="left">
 <a href="https://twitter.com/sb_shohagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sb_shohagh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-shohagh-7a0890227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shohagh-7a0890227" height="30" width="40" /></a>
