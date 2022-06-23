@@ -16,10 +16,10 @@ The changing world will also help a significant contribution to the success of T
 <p>Familiar:- Typescript, React Native.</p>
 <p>Comfortable:- Tailwind CSS, React Hook Form, React Query, Strip.</p>
 <p>Tools:-VS Code, Github, Netlify, Heroku, Figma, etc.</p>
-<div>
+<p>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbsohag3&show_icons=true&locale=en&layout=compact" alt="sbsohag3" />
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sbsohag3&" alt="sbsohag3" />
-</div>
+</p>
 
 
 <h1>☕ Connect with me!</h1>
