@@ -1,5 +1,5 @@
 
-
+![Front-End Developer|| React.JS || JavaScript|| Full Stack Web Developer(MERN Stack)](https://github.com/sbsohag3/sbsohag3/blob/main/Alfredo%20Torres.png)
 <h1 align="left">Hi 👋, I'm Shohagh</h1>
 <h3>Front-End Developer|| React.JS || JavaScript|| Full Stack Web Developer(MERN Stack)</h3>
 <h3 align="left">A passionate frontend developer from Bangladesh</h3>
