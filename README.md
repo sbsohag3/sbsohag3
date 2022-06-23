@@ -1,7 +1,7 @@
 ![Front-End Developer|| React.JS || JavaScript|| Full Stack Web Developer(MERN Stack)](https://media-exp2.licdn.com/dms/image/C4D16AQFeEc3wT4Xfcw/profile-displaybackgroundimage-shrink_200_800/0/1654625279990?e=1661385600&v=beta&t=QVwQ5Yh-G8GhLHTH7VzpO1n_fc0FMnMzib-La2HDZJc)
 
 <h1 align="center">Hi 👋, I'm Shohagh</h1>
-#### Front-End Developer|| React.JS || JavaScript|| Full Stack Web Developer(MERN Stack)
+<h2>Front-End Developer|| React.JS || JavaScript|| Full Stack Web Developer(MERN Stack)</h2>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
@@ -10,8 +10,8 @@ Organization. At the same time, I prefer to enhance my knowledge with new skills
 The changing world will also help a significant contribution to the success of The Company.</h5>
 
 
-##Skills: 
-<p>Expertise: - HTML5, CSS3, Bootstrap,Tailwind CSS, JavaScript, ReactJS, React Router, Axios, Firebase, ExpressJS, MongoDB, JWT.</p>
+<h2>Skills: </h2>
+<p><b>Expertise: -</b> HTML5, CSS3, Bootstrap,Tailwind CSS, JavaScript, ReactJS, React Router, Axios, Firebase, ExpressJS, MongoDB, JWT.</p>
 <p>Familiar:- Typescript, React Native.</p>
 <p>Comfortable:- Tailwind CSS, React Hook Form, React Query, Strip.</p>
 <p>Tools:-VS Code, Github, Netlify, Heroku, Figma, etc.</p>
