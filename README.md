@@ -1,4 +1,4 @@
-![Front-End Developer|| React.JS || JavaScript|| Full Stack Web Developer(MERN Stack)](https://media-exp2.licdn.com/dms/image/C4D16AQFeEc3wT4Xfcw/profile-displaybackgroundimage-shrink_200_800/0/1654625279990?e=1661385600&v=beta&t=QVwQ5Yh-G8GhLHTH7VzpO1n_fc0FMnMzib-La2HDZJc)
+
 
 <h1 align="left">Hi 👋, I'm Shohagh</h1>
 <h3>Front-End Developer|| React.JS || JavaScript|| Full Stack Web Developer(MERN Stack)</h3>
