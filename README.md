@@ -23,12 +23,14 @@ The changing world will also help a significant contribution to the success of T
 
 
 <h1 align="left">☕ Connect with me!</h1>
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
+
 <p align="left">
-<a href="https://twitter.com/sb_shohagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sb_shohagh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-shohagh-7a0890227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shohagh-7a0890227" height="30" width="40" /></a>
-<a href="https://fb.com/sb.shohagh.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sb.shohagh.0" height="30" width="40" /></a>
-<a href="https://instagram.com/sb_shohagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sb_shohagh" height="30" width="40" /></a>
+  <a lign="left" width="24%"  href="https://linkedin.com/in/md-shohagh-7a0890227" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a lign="left" href="https://twitter.com/sb_shohagh" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+
+<a lign="left" href="https://fb.com/sb.shohagh.0" target="blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a lign="left" href="https://instagram.com/sb_shohagh" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
