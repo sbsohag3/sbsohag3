@@ -20,7 +20,7 @@ The changing world will also help a significant contribution to the success of T
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sbsohag3&show_icons=true&locale=en&layout=compact" alt="sbsohag3" />
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=sbsohag3&" alt="sbsohag3" />
 </p>
-<br/>
+</br>
 
 <h1 align="left">☕ Connect with me!</h1>
 <p align="left">
