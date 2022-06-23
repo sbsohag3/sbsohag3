@@ -1,7 +1,20 @@
 ![Front-End Developer|| React.JS || JavaScript|| Full Stack Web Developer(MERN Stack)](https://media-exp2.licdn.com/dms/image/C4D16AQFeEc3wT4Xfcw/profile-displaybackgroundimage-shrink_200_800/0/1654625279990?e=1661385600&v=beta&t=QVwQ5Yh-G8GhLHTH7VzpO1n_fc0FMnMzib-La2HDZJc)
 
 <h1 align="center">Hi 👋, I'm Shohagh</h1>
+#### Front-End Developer|| React.JS || JavaScript|| Full Stack Web Developer(MERN Stack)
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+
+<h5>Aspiring to work in an organization where I can contribute and add more value to the
+Organization. At the same time, I prefer to enhance my knowledge with new skills to keep pace
+The changing world will also help a significant contribution to the success of The Company.</h5>
+
+
+##Skills: 
+<p>Expertise: - HTML5, CSS3, Bootstrap,Tailwind CSS, JavaScript, ReactJS, React Router, Axios, Firebase, ExpressJS, MongoDB, JWT.</p>
+<p>Familiar:- Typescript, React Native.</p>
+<p>Comfortable:- Tailwind CSS, React Hook Form, React Query, Strip.</p>
+<p>Tools:-VS Code, Github, Netlify, Heroku, Figma, etc.</p>
 
 - 🔭 I’m currently working on [SB Shop](https://sb-shop-ass12.web.app/)
 
@@ -9,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [https://wondrous-jalebi-ec4685.netlify.app/](https://wondrous-jalebi-ec4685.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://wondrous-jalebi-ec4685.netlify.app/)
 
 - 💬 Ask me about **Deb Developer**
 
