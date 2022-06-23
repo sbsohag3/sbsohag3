@@ -22,7 +22,7 @@ The changing world will also help a significant contribution to the success of T
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://wondrous-jalebi-ec4685.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://wondrous-jalebi-ec4685.netlify.app/](https://wondrous-jalebi-ec4685.netlify.app/)
 
 - 💬 Ask me about **Deb Developer**
 
